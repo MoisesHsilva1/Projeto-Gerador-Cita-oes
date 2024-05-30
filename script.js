@@ -11,6 +11,7 @@ const citacoes = [
 
 ]
 var botaoGerar = document.querySelector('buttonGerar') 
+var TextCitacao = document.querySelector('')
 
 function GerarCitacoes () {
 
