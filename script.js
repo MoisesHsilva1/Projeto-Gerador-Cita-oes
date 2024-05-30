@@ -10,7 +10,6 @@ const citacoes = [
     "A persistência é o caminho do êxito. - Charles Chaplin"
 
 ]
-// const botaoGerar = document.querySelector('.buttonGerar') 
 
 function GerarCitacoes () {
     const randomCitacao = Math.floor(Math.random() * citacoes.length)
